@@ -1,0 +1,19 @@
+.message_body{
+    /* border: 2px solid ; */
+    border-radius: 20px;
+    padding: 10px;
+    margin: 2vh;
+    background-color: rgb(66,96,122);
+    /* height: 4vh; */
+
+}
+.user_name{
+    /* background-color: blue; */
+}
+.message_body{
+    /* background-color: red; */
+}
+.user_name{
+    font-weight: bold;
+
+}

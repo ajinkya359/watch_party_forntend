@@ -1,0 +1,34 @@
+.container {
+  width: 20vw;
+  border: 2px solid rgb(110, 107, 107);
+  border-radius: 10px;
+  width: 30%;
+  /* margin-left: 20%%; */
+  background: rgb(240, 241, 243);
+  height:99%;
+  display: flex;
+  flex-direction: column;
+  
+}
+.chatbox{
+  flex-grow: 0.5;
+  
+}
+#message_list{
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  height: 72vh;
+  margin:1vh ;
+}
+
+.TypeMessage {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  /* padding: ; */
+  /* margin-top: 1vh; */
+}
+.message_input{
+  flex-grow: 1;
+}

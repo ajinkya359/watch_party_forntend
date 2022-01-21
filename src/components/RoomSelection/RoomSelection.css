@@ -1,0 +1,10 @@
+.room_selection_body{
+    /* border: 2px solid red; */
+    height: 50vh;
+}
+.room_selection_buttons{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    margin: 10% 38%;
+}

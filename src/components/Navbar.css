@@ -1,0 +1,28 @@
+.navbar_body{
+    border-bottom: 2px solid rgb(235, 230, 230);
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    /* justify-content: space-between; */
+}
+.website_name{
+    /* background-color: red; */
+    /* flex-grow: 3; */
+    padding: 4vh 5vw;
+    font-size: xx-large;
+    flex-grow: 9;
+}
+.nav_bar_details{
+    /* background-color: green; */
+    /* width: 50vw; */
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    padding: 5vh ;
+
+}
+.user_details{
+    /* background-color: green; */
+    display: flex;
+    flex-direction: row;
+}

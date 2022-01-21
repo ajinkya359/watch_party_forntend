@@ -1,0 +1,14 @@
+.react_player{
+    background-color: rgb(240,241,243);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.console{
+    background-color: rgb(240,241,243)red;
+    display: flex;
+    flex-direction: row;
+}
+#video_url{
+    flex-grow: 1;
+}
